@@ -1,4 +1,4 @@
-
+# Input por consola
 print("Escriba la primera cadena")
 x = input()
 print("Escriba la degunda cadena")

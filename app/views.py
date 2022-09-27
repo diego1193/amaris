@@ -5,11 +5,12 @@ from rest_framework.decorators import api_view
 from rest_framework import status
 import requests
 
-# Create your views here.
 
+#Funcion de peticion "Get"
 @api_view(['GET', 'POST', 'DELETE'])
 def get_pokemons(request, pk):
     if request.method == 'GET':
+        #Llamamos url
         response = requests.get(f"https://pokeapi.co/api/v2/pokemon-form/{pk}/", params={})
         if response.status_code == 200:
             response_json = response.json()
