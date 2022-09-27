@@ -69,7 +69,6 @@ Y allí nos que ingresemos las dos cadenas de texto, le damos enter y aperece la
 ***
 ### Ejecutando y probando aplicación 🚀
 
-* ### Ejecutando migraciones y cargando registros a la base de datos
 
 Para poder ejecutar el proyecto debemos dirigirnos mediante consola a la carpeta **amaris**, por consiguiente debemos escribir:
 ```
