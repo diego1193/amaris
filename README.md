@@ -87,7 +87,7 @@ pytest
 ```
 Esto lo hacemos para generar las pruebas unitarias con herramienta **_PyTest_** y poder estar seguros que nuestro proyecto esta corriendo correctamente antes de salir a producción.
 #### Ejemplo:
-![ScreenShot](/images/pytest1.jpg)
+![ScreenShot](/images/pytest_1.jpg)
 
 * #### Ejecutando proyecto
 Para correr nuestro proyecto:
